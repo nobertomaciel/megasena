@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T21:51:36.390Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lcQhM2SNvSOtGJbv_22s" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T21:52:26.499Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="SybVch64x1Ydw8qk2TFZ" version="20.3.6" type="github">
   <diagram id="W3kM5brpvc-LCr4-hFXW" name="Página-1">
-    <mxGraphModel dx="2065" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="688" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="2m_5Ru77VeyDElaCjXpX-5" value="(Eq 3): Onde, Fn é a soma &#xa;das dezenas" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAL0AAABWBAMAAABoeopCAAAAMFBMVEX///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAv3aB7AAAAD3RSTlMA3e9UmSKru3YyZkQQic1RkiYsAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAE70lEQVRoBe1YTYgjRRR+maTT6aQzExa8CJLQXhZcSQ6iJ5kBZT1OXI/KZMSfOXhIcPEHdJkoCy6CJCCoJxM9iZdkBw97S7sHBVmc7EUvLg6iXlzd3d5dddWZ8lVVV1d3dZLu9AwIkndIvZ/vvap+9ep1dQBikvFW/dzJmNgksGLmDKT6STzj+byrn4DlcTxsElR3qQ0r/SSeMX0aXejVY2KTwAYAl5P4xfXZArhfiwtOgDsOxu1cAr+YLtodKFSeiAlOACuUAF7tJ3BcuCwysMjAf5YBg4TJPsLVmIQcXBH06FaZznakr7FV4vjX++RlQipHuH7IELIXiPce+SsgH1Yok/1giI0bQfmQUoOQYTDEuiIHrfNKeUJOBH0yLSqbEbMY9aDXVKlJ/lBsd1H5C0UZEp8TmlTVse4VQni8SEg7qL1Axdfpz5uOReqQJpY1hB8s64DqOo7Vp+OXNv1ltH5bcBNGPGJ3wupMjelOsblH+zQZHf6c+QOeuULL82pK1tNJpkMmVMyH3J5jm7/TpdISh2XXuAmecUeAattjJzA6IZsh9S9cYxJcmvYTE4qETfOAwD4uGI0bhKiOZjV8pOh9glETU/t1nbEaWcPRwAk5LddcJk+EavI4IriJQcq2Xbm3DyZfPsC1Cio3XANAXsyUVQvQg3CmSEhJUa10XcWyA7rgOzfxWIjJkP3HxSz9qXir4jVyS1HtCDlPaq8Jfvd3kJOh8m7X0JhVnhSDPaLmYt3hW0+s/twXvE5seEQIOIoPqk7Fp5zEpkM94kcP9r1sf2nSz7U9A8AbLr+9KZWXBEkVcuuEHU2pE4+Oz+ZLHdl7UEIARq5A+p4Wu5lLYnOYKaW+tXAnXRpgUgQ1b7YES0f3g8eg1VdY81tUXiPk74DOk9KnWYfgxtEN24/CbypKOQd/spuUnUoDQkEemV5Heh+qJU/d8KZlqsaQDTqWVRTpwR6EnxucjKvQkUFXrwfi7PL4KzFeqGY1UMOaiLlhw648net7gfiYH/0+3GbfVk7ZXzCrfC2uv+nuLz2tWdk8yuNAfNzfVaxe2p2LV1yLKM9LdgC6rDyjKy53saF5FyKTv6k/eCl3dpN6j2zoXAWTds92IxAuJGwHVwb3cMRpOpQrXMD3GGPGj415a/gY4DPsGLgWrY/fzzOoqJbA8wz8OZt1IA5Dhh1Co/aiDb9SOzYRfQjNPj4jvMwcpv0M9hTLR1T+ir+XOqLqT7GdNuA4AMvfGcR8s/UdhZqiIKgQooJjK7oGKi467OrVcyynRs3HrKpVxxGL12DV5ouZq1DENAo3WO/dNMElfx2KJdQXKtKYGj8lBZVTipOavXeTikU524KlMT5IZiyNjW5bCiqnFie1K3c6vwv+VdSrt/E+YUttT6tJQeWavoUI21nBhEc8tjs03Ds+k37OJyhsUTYAbvkEh1RdQUnxPJbl21gyJamayanFadLcaK2ZPmjMdqMQ3B4qTp2FfjjK+9MogGtviF4s8Ns1yqWHQp48Gv3JelVrlpVA5yNuY2qACFktzodCd6GIABHm5poPYF5oTryt+yBzskXyike/HWN3i9KcIWbCB+K+Isf2TIf5jPj9HiJ7vhAL9CIDiwxEZsB8IRJyGED2pO82c5hA03yNRfxpqWH6RX5mpgcW+fl/56egfAHPftq5rcWnnWfndoJ/AX5euh/hf3ZOAAAAAElFTkSuQmCC;" vertex="1" parent="1">
           <mxGeometry x="550" y="577" width="189" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="2m_5Ru77VeyDElaCjXpX-6" value="Equação latex:&lt;br&gt;J_i = \sum_{1}^{n}(XY_n)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="600" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
